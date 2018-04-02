@@ -1,1 +1,2 @@
-# hellopython3
+# Hello Python.
+# Head First Python
